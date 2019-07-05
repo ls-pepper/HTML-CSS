@@ -1,0 +1,75 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+body{
+    width: 100%;
+}
+
+#content{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    max-width: 1280px;
+}
+
+#gitLogo{
+    display: inline-block;
+    height: 48px;
+    top:0px;
+}
+
+#gitLink{
+    display: inline-block;
+    height: 48px;
+    top:0px;
+    font-size: 20px;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+
+#gitBlock{
+    height: 48px;
+}
+
+#header{
+    text-align: center;
+}
+
+#tableBlock{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.titleTable{
+    font-style: bold;
+    width:50%;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align: center;
+}
+
+.contentTable{
+    width: 50%;
+    text-align: left;
+}
+
+table{
+    font-size: 20px;
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+td{
+    width: 100%;
+    /* padding-bottom: 45px; */
+}
+
+tr{
+    height: 40px;
+    line-height: 40px;
+    vertical-align: middle;
+    margin-bottom:20px;
+}
